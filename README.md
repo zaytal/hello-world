@@ -1,2 +1,2 @@
 # hello-world
-I'me testing commiting on git-hub
+I'm testing commiting on git-hub
